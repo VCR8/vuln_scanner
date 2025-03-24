@@ -16,3 +16,10 @@ You can install `nmap` and `curl` with the following commands:
 ```bash
 sudo apt update
 sudo apt install nmap curl
+
+![image](https://github.com/user-attachments/assets/e092da52-8efd-4696-bedd-b3d330919a5e)
+
+![image](https://github.com/user-attachments/assets/bec3c9f2-9e77-4744-ba15-c4ad5402408d)
+
+![image](https://github.com/user-attachments/assets/67c827e2-334f-4bcc-97c3-ab1a82378f8e)
+
