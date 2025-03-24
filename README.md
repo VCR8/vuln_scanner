@@ -14,7 +14,8 @@ This is a simple Bash script designed to scan a target IP address for vulnerabil
 
 ![image](https://github.com/user-attachments/assets/2f9290e6-764a-457e-accd-de164ff1f894)
 ![image](https://github.com/user-attachments/assets/bda53d45-54f4-407e-98e3-c935e614b358)
-![image](https://github.com/user-attachments/assets/3f89e3c4-736b-4f90-8af8-e436d27ba154)
+![image](https://github.com/user-attachments/assets/c98d043b-4f8e-42e5-a6a4-a563cb19743c)
+
 
 
 You can install `nmap` and `curl` with the following commands:
